@@ -23,3 +23,5 @@ Optional
     - To explore and visualize datasets
 - IntelliJ IDEA
   - To write and compile Spark applications
+
+`git pull upstream master`
